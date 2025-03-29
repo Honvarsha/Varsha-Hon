@@ -25,9 +25,6 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 ### 2️⃣ Data Analysis Work
 - **SQL Queries & Reports**
 - **Tableau / Power BI Dashboards**
-- **Python for Data Analysis (Jupyter Notebooks)**
-
-
 ## 📊 Power BI Dashboards  
 📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
 
@@ -40,8 +37,6 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **Test Case Templates**
 - **UAT Checklists & Sign-off Documents**
 - **Bug Tracking Reports**
-
-📂 [View UAT Documentation](./UAT-Test-Cases)
 
 ### 6️⃣ Certifications & Courses
 - **Certifications ( Agile, Data Analysis, BA-related)**
