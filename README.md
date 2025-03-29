@@ -14,7 +14,7 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **Process Flow Diagrams (Visio, Lucidchart, BPMN)**
 - **Mockups & Wireframes (Figma, Balsamiq, Draw.io)**
 
-📂 [View Wireframe](./Wireframe)
+📂 [View Wireframe](./Business Analyst/Wireframe)
 
 ### 2️⃣ Data Analysis Work
 - **SQL Queries & Reports**
