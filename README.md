@@ -23,6 +23,10 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 
 📂 [View Data Analysis](./Data-Analysis)
 
+## 📊 Power BI Dashboards  
+📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
+
+
 ### 3️⃣ API & Integration Knowledge
 - **API Documentation (Postman, Swagger)**
 - **Sample API Calls & Response Analysis**
