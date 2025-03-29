@@ -48,6 +48,11 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **Certifications (SAFe 6.0, Agile, Data Analysis, BA-related)**
 
 📂 [View Certifications](./Certifications)
+## 🎓 Certifications  
+✅ Agile & Scrum Foundation  
+✅ Business Analyst 
+✅ Power BI Data Analyst Certification  
+✅ SQL for Data Analysis  
 
 ## 🚀 Connect With Me
 📧 Email: varsha121hon@gmail.com
