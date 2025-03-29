@@ -15,13 +15,15 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **Mockups & Wireframes (Figma, Balsamiq, Draw.io)**
 
 📂**View Wireframes** → [Wireframe Folder](./Business%20Analyst/Wireframe/)
+📂**View Flowcharts** → [Flowcharts Folder](./Business%20Analyst/Flowcharts/)
+
+
 
 ### 2️⃣ Data Analysis Work
 - **SQL Queries & Reports**
 - **Tableau / Power BI Dashboards**
 - **Python for Data Analysis (Jupyter Notebooks)**
 
-📂 [View Data Analysis](./Data-Analysis)
 
 ## 📊 Power BI Dashboards  
 📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
