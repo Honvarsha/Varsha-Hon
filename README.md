@@ -27,6 +27,21 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **API Documentation (Postman, Swagger)**
 - **Sample API Calls & Response Analysis**
 
+  ## 📊 Power BI Dashboards  
+
+### 🔹 Sales Performance Dashboard  
+📂 **File:** [Download PBIX](./PowerBI/SalesDashboard.pbix)  
+📊 **Dataset:** [Download CSV](./PowerBI/SalesData.csv)  
+🖼 **Preview:**  
+![Sales Dashboard](./PowerBI/SalesDashboard.png)  
+
+### 🔹 Customer Insights Dashboard  
+📂 **File:** [Download PBIX](./PowerBI/CustomerInsights.pbix)  
+📊 **Dataset:** [Download CSV](./PowerBI/CustomerData.csv)  
+🖼 **Preview:**  
+![Customer Dashboard](./PowerBI/CustomerDashboard.png)  
+
+
 📂 [View API Documentation](./API-Documentation)
 
 ### 4️⃣ Agile & JIRA Work
