@@ -16,7 +16,7 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 
 📂**View Wireframes** → [Wireframe Folder](./Business%20Analyst/Wireframe/)
 📂**View Flowcharts** → [Flowcharts Folder](./Business%20Analyst/Flowcharts/)
-📂**View Flowcharts** → [Flowcharts Folder](./Business%20Analyst/Other/)
+📂**View Other Documents** → [Other Documents](./Business%20Analyst/Other/)
 
 
 
