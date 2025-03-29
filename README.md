@@ -29,34 +29,10 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 ## 📊 Power BI Dashboards  
 📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
 
-
-### 3️⃣ API & Integration Knowledge
-- **API Documentation (Postman, Swagger)**
-- **Sample API Calls & Response Analysis**
-
-  ## 📊 Power BI Dashboards  
-
-### 🔹 Sales Performance Dashboard  
-📂 **File:** [Download PBIX](./PowerBI/SalesDashboard.pbix)  
-📊 **Dataset:** [Download CSV](./PowerBI/SalesData.csv)  
-🖼 **Preview:**  
-![Sales Dashboard](./PowerBI/SalesDashboard.png)  
-
-### 🔹 Customer Insights Dashboard  
-📂 **File:** [Download PBIX](./PowerBI/CustomerInsights.pbix)  
-📊 **Dataset:** [Download CSV](./PowerBI/CustomerData.csv)  
-🖼 **Preview:**  
-![Customer Dashboard](./PowerBI/CustomerDashboard.png)  
-
-
-📂 [View API Documentation](./API-Documentation)
-
 ### 4️⃣ Agile & JIRA Work
 - **Sprint Backlogs & User Stories**
 - **JIRA Board Samples**
 - **Retrospective Reports & Lessons Learned**
-
-📂 [View Agile Work](./Agile-JIRA)
 
 ### 5️⃣ Test Cases & UAT Documentation
 - **Test Case Templates**
@@ -65,9 +41,12 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 
 📂 [View UAT Documentation](./UAT-Test-Cases)
 
-### 6️⃣ Certifications & Presentations
-- **Case Study Presentations (PDF/PPT)**
-- **Certifications (SAFe 6.0, Agile, Data Analysis, BA-related)**
+### 6️⃣ Certifications & Courses
+- **Certifications ( Agile, Data Analysis, BA-related)**
+
+  ### 3️⃣ API & Integration Knowledge
+- **API Documentation (Postman)**
+- **Sample API Calls & Response Analysis**
 
 📂 [View Certifications](./Certifications)
 ## 🎓 Certifications  
