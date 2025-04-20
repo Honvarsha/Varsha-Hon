@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
 # Varsha-Hon
 # 📊 Business Analyst Portfolio
 Welcome to my Business Analyst portfolio! Here, you'll find a collection of my work, including requirement documents, case studies, data analysis projects, documentation, and more.
