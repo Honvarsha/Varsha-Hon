@@ -18,7 +18,7 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 - **User Stories & Acceptance Criteria**
 - **Process Flow Diagrams (Visio, Lucidchart, BPMN)**
 - **Mockups & Wireframes (Figma, Balsamiq, Draw.io)**
-- 
+
 📂**View Business Documents** → [Business Document Folder](./Business%20Analyst/Business%20Document/)
 📂**View Wireframes** → [Wireframe Folder](./Business%20Analyst/Wireframe/)
 📂**View Flowcharts** → [Flowcharts Folder](./Business%20Analyst/Flowcharts/)
@@ -27,35 +27,37 @@ I am a Business Analyst with 5+ years of experience in end-to-end solution deliv
 
 
 
-### 2️⃣ Data Analysis Work
+###  Data Analysis Work
 - **SQL Queries & Reports**
 - **Tableau / Power BI Dashboards**
 ## 📊 Power BI Dashboards  
 📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
 
-### 4️⃣ Agile & JIRA Work
+###  Agile & JIRA Work
 - **Sprint Backlogs & User Stories**
 - **JIRA Board Samples**
 - **Retrospective Reports & Lessons Learned**
 
-### 5️⃣ Test Cases & UAT Documentation
+### Test Cases & UAT Documentation
 - **Test Case Templates**
 - **UAT Checklists & Sign-off Documents**
 - **Bug Tracking Reports**
 
-### 6️⃣ Certifications & Courses
+### Certifications & Courses
 - **Certifications ( Agile, Data Analysis, BA-related)**
-
-  ### 3️⃣ API & Integration Knowledge
-- **API Documentation (Postman)**
-- **Sample API Calls & Response Analysis**
-
-📂 [View Certifications](./Certifications)
+  
+  📂 [View Certifications](./Certifications)
 ## 🎓 Certifications  
 ✅ Agile & Scrum Foundation  
 ✅ Business Analyst 
 ✅ Power BI Data Analyst Certification  
 ✅ SQL for Data Analysis  
+
+  ### API & Integration Knowledge
+- **API Documentation (Postman)**
+- **Sample API Calls & Response Analysis**
+
+
 
 ## 🚀 Connect With Me
 📧 Email: varsha121hon@gmail.com
